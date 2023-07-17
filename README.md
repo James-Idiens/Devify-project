@@ -1,9 +1,9 @@
 # Devify 💻
 
+See the website live [HERE](https://devify.pushed.nz/)
 Welcome to Devify, where we're redefining the online shopping experience. Inspired by the best, we've built an advanced e-commerce platform, offering unmatched user-friendliness and innovative features. With Devify, you'll find seamless customization, powerful analytics, secure payments, and exceptional customer engagement. Join us as we transform the way you sell, connect, and thrive in the digital world. Welcome to Devify – Where e-commerce dreams become reality.
 
 Our inspiration for this website came from the aesthetics of petkit.com
-and the
 
 ## Getting Started ⚡️
 
